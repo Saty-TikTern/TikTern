@@ -1,7 +1,7 @@
 # TikTern
 A web3, socialfi and gamefi decentralised economy
 
-Introduction: 
+                                                        Introduction
 
 According to a world bank report, more than 4 billion inhabitants, about 55% of the world's population, live in cities. It is estimated that by 2050, 70% of the world’s population will live in cities. Urban life today has its challenges - 
 1. Rise in large vehicular traffic, leading to congestion on roads
